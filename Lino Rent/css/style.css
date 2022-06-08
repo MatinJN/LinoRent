@@ -1,0 +1,234 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header .hr-top {
+  background-color: black;
+  padding: 10px 0;
+}
+
+header .hr-top span {
+  color: #a3a3a3;
+  font-size: 12px;
+  margin-right: 15px;
+}
+
+header .hr-top i {
+  color: #6385da;
+  margin-left: 15px;
+}
+
+header .hr-bottom {
+  padding: 2rem 0;
+  background-color: #fff;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+header .hr-bottom a {
+  font-size: 13px;
+  color: black;
+  padding: 27px 10px;
+  text-decoration: none;
+}
+
+.first {
+  background-image: url(http://anpsthemes.com/limorent/demo-1/wp-content/uploads/2017/01/slider3.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 14rem 0;
+}
+
+.first h1 {
+  font-size: 90px;
+  color: #fff;
+  text-align: center;
+}
+
+.first h6 {
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+}
+
+.first .box {
+  width: 18%;
+  margin: auto;
+}
+
+.first .box a {
+  color: #fff;
+  font-size: 14px;
+  background-color: #52b3ef;
+  text-decoration: none;
+  padding: 15px 30px;
+}
+
+.second {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.second .left {
+  padding: 6rem 2rem 3rem 7rem;
+}
+
+.second span {
+  color: #000000;
+  font-size: 36px;
+}
+
+.second em {
+  color: #4d9ed0;
+  font-size: 24px;
+  margin-top: 3px;
+}
+
+.second hr {
+  width: 15%;
+  background-color: #4d9ed0;
+  height: 3px;
+  border: 1px solid #4d9ed0;
+  opacity: 1;
+}
+
+.second p {
+  font-size: 18px;
+  color: #898989;
+  margin: 45px 0 40px;
+}
+
+.second a {
+  color: #fff;
+  font-size: 14px;
+  background-color: #52b3ef;
+  text-decoration: none;
+  padding: 15px 30px;
+}
+
+.second .right {
+  background-image: url(http://anpsthemes.com/limorent/demo-1/wp-content/uploads/2016/01/calltoaction-backgroundimage.jpg);
+  background-position: center;
+  height: 85vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  background-repeat: no-repeat;
+}
+
+.third {
+  background-color: #f8f9f9;
+  padding: 4rem 0;
+}
+
+.third h5 {
+  color: #000000;
+  font-size: 16px;
+  margin: 16px 0;
+}
+
+.third p {
+  font-size: 14px;
+  color: #898989;
+}
+
+.third a {
+  color: #4d9ed0;
+  font-size: 12px;
+  padding: 11px 0;
+  text-decoration: none;
+}
+
+.four {
+  text-align: center;
+  padding: 5rem 0;
+}
+
+.four a {
+  color: #000000;
+  font-size: 18px;
+  display: inline-block;
+  margin-bottom: 30px;
+  padding: 12px 15px;
+}
+
+.five {
+  padding: 3rem 0;
+  background-color: #4d9ed0;
+}
+
+.five span {
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+.five h5 {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.five i {
+  color: #ffffff;
+}
+
+.six {
+  background-image: url(http://anpsthemes.com/limorent/demo-1/wp-content/uploads/2016/01/statement-limo.jpg?id=2111);
+  background-position: center;
+  background-size: cover;
+  padding: 9rem 0;
+}
+
+.six .all {
+  margin-left: 40px;
+}
+
+.six h1 {
+  font-size: 32px;
+  color: #ffffff;
+}
+
+.six p {
+  color: #c2c2c2;
+  font-size: 18px;
+  padding: 15px 0;
+}
+
+.six a {
+  color: #fff;
+  font-size: 14px;
+  background-color: #52b3ef;
+  text-decoration: none;
+  padding: 15px 30px;
+}
+
+.seven {
+  margin: 7rem 0;
+}
+
+.seven h3 {
+  font-size: 18px;
+  padding: 10px 0 20px;
+  font-weight: 400;
+}
+
+.seven p {
+  color: #898989;
+}
+
+.seven a {
+  text-decoration: none;
+  color: #4d9ed0;
+}
+
+.eight {
+  background-color: #f8f9f9;
+  padding: 3rem 0;
+}
+/*# sourceMappingURL=style.css.map */
